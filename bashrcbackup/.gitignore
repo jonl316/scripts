@@ -1,0 +1,6 @@
+# .gitignore for the .bashrc file I'm going to put in place. 
+
+/*
+
+!.bashrc
+!.gitignore
