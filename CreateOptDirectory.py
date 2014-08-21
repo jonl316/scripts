@@ -50,6 +50,8 @@ def main():
     createDirectory('opt/IdeaProjects')
     createDirectory('opt/PythonProjects')
     createDirectory('vmware')
+    createDirectory('opt/Idea')
+    createDirectory('opt/AA')
 
 
     print('\n****** End Program ******')

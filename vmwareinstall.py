@@ -9,6 +9,8 @@ import os
 def main():
 
 #    os.system("cd /home/jonl316/vmware/vmware-tools-distrib")
+    os.chdir("/home/jonl316/vmware/")
+    os.system("tar -xvf /home/jonl316/vmware/VMwareTools*")
     os.chdir("/home/jonl316/vmware/vmware-tools-distrib")
     os.system("sudo ./vmware-install.pl -d")
 
