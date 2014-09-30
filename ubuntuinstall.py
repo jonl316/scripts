@@ -15,7 +15,7 @@ def main():
     os.system("sudo apt-get install filezilla -y")
     os.system("sudo apt-get install chromium-browser -y")
     os.system("sudo apt-get install guake -y")
-    
+    os.system("sudo apt-get install zsh -y") 
      
     os.system("git config --global user.name \"Jonathan David Livesay\"")
     os.system("git config --global user.email \"jonathan.livesay@gmail.com\"")
