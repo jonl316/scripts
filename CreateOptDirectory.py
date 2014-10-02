@@ -52,7 +52,7 @@ def main():
     createDirectory('vmware')
     createDirectory('opt/Idea')
     createDirectory('opt/AA')
-    createDirectory('/opt/SpringSTS/workspace')
+    createDirectory('opt/SpringSTS/workspace')
 
     print('\n****** End Program ******')
 
