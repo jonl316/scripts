@@ -47,6 +47,7 @@ def main():
     createDirectory('opt/EclipseJavaEE/workspace')
     createDirectory('opt/CodeBlocksProjects')
     createDirectory('opt/NetBeansProjects')
+    createDirectory('opt/NetBeans')
     createDirectory('opt/IdeaProjects')
     createDirectory('opt/PythonProjects')
     createDirectory('vmware')
